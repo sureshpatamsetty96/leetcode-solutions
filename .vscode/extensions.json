@@ -1,0 +1,25 @@
+{
+  "recommendations": [
+    "aaron-bond.better-comments",
+    "ms-python.black-formatter",
+    "alefragnani.bookmarks",
+    "streetsidesoftware.code-spell-checker",
+    "ms-vscode-remote.remote-containers",
+    "editorconfig.editorconfig",
+    "usernamehw.errorlens",
+    "github.codespaces",
+    "github.copilot",
+    "github.copilot-chat",
+    "github.vscode-pull-request-github",
+    "github.remotehub",
+    "leetcode.vscode-leetcode",
+    "esbenp.prettier-vscode",
+    "ms-python.vscode-pylance",
+    "donjayamanne.python-environment-manager",
+    "ms-python.python",
+    "ms-python.debugpy",
+    "gruntfuggly.todo-tree",
+    "redhat.java",
+    "vscjava.vscode-java-debug"
+  ]
+}
